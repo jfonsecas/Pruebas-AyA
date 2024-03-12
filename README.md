@@ -1,2 +1,3 @@
-# Pruebas-AyA
-Repositorio de Scripts desarrollados para la ejecución de pruebas a Magaya
+# Pruebas API Magaya para Acosta y Aguayo
+
+Repositorio de Scripts desarrollados para la ejecución de pruebas al API de Magaya
